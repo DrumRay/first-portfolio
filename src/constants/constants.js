@@ -4,8 +4,8 @@ export const projects = [
     description: "В данном проекте я воспроизвёл готовый дизайн, созданный в Figma, используя React, JavaScript и CSS.",
       image: '/images/1.png',
       tags: ['Figma', 'React', 'JavaScript'],
-    source: 'https://github.com/DrumRay/gpt3-landing-page',
-    visit: 'https://gpt3-landing-page-psi.vercel.app/',
+    source: 'https://gpt3-landing-page-psi.vercel.app/',
+    visit: 'https://github.com/DrumRay/gpt3-landing-page',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description:"Этот проект представляет собой интерактивную галерею изображений, в которой демонстрируются статическое и динамическое извлечение данных, а также инкрементальная статическая регенерация. Помимо этого на сайте предоставлена возможность поиска изображений по различным темам. В проекте используются изображения, полученные из сервиса Unsplash.",
     image: '/images/2.png',
     tags: ['React', 'NextJS' ,'TypeScript'],
-    source: 'https://github.com/DrumRay/image-gallery',
-    visit: 'https://image-gallery-taupe-nine.vercel.app/',
+    source: 'https://image-gallery-taupe-nine.vercel.app/',
+    visit: 'https://github.com/DrumRay/image-gallery',
     id: 1,
   },
 

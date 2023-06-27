@@ -16,14 +16,12 @@ const Footer = () => {
           <LinkTitle>Email</LinkTitle>
           <LinkItem href='mailto:drumray1@gmail.com'>drumray1@gmail.com</LinkItem>
         </LinkColumn>
-      </LinkList>
-      <SocialIconsContainer>
-        <CompanyContainer>
         <LinkColumn>
           <LinkTitle>YouTube</LinkTitle>
           <LinkItem href='https://www.youtube.com/channel/UC5v85WiA6SvwT1lQ5hNZXzg'>Drum Ray</LinkItem>
         </LinkColumn>
-        </CompanyContainer>
+      </LinkList>
+      <SocialIconsContainer>
         <SocialContainer>
           <SocialIcons href='https://github.com/DrumRay'>
           <AiFillGithub size='3rem' />
