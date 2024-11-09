@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'Tic-Tac-Toe',
+    description:"Вечная классика — крестики-нолики. Есть возможность как локальной игры, так и игры с ботом.",
+    image: '/images/3.jpg',
+    tags: ['React', 'NextJS' ,'TypeScript'],
+    source: 'https://webgames-mauve.vercel.app/',
+    visit: 'https://github.com/DrumRay/webgames',
+    id: 1,
+  },
+  {
     title: 'GPT3 Landing Page',
     description: "В данном проекте я воспроизвёл готовый дизайн, созданный в Figma, используя React, JavaScript и CSS.",
       image: '/images/1.png',
@@ -25,6 +34,6 @@ export const TimeLineData = [
   { year: "2020-2021", text: 'Несколько раз проходил переводческую практику', },
   { year: "2022", text: 'Закончил обучение в БГУ', },
   { year: "2022-2023", text: 'Около полугода работал в компании DATAPO', },
-  { year: "2023", text: 'Параллельно с работой начал изучение JavaScript и погружение в фронтенд-разработку', },
-  { year: "лето 2023-по н.в.", text: 'Работа в качестве фронтенд-разработчика фрилансера', },
+  { year: "весна 2023- осень 2023", text: 'Работа в качестве фронтенд-разработчика фрилансера', },
+  { year: "осень 2023-по н.в.", text: 'SEO-специалист в компании WEBAGENT', },
 ];

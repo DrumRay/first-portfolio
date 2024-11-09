@@ -11,7 +11,7 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle>Технологии</SectionTitle>
     <SectionText>
-      Я работал с различными технологиями в области веб-разработки, включая фронтенд, дизайн и частично фулл-стек.
+      Я работал с различными технологиями в области веб-разработки, включая фронтенд и дизайн. Последний год активно работаю с различными CMS системами.
     </SectionText>
     <List>
       <ListItem>
@@ -20,6 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             React.js <br/>
+            Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -36,10 +37,12 @@ const Technologies = () =>  (
       <ListItem>
         <BsWordpress size="2.5rem"/>
         <ListContainer>
-          <ListTitle>Full-Stack</ListTitle>
+          <ListTitle>CMS</ListTitle>
           <ListParagraph>
             Wordpress <br/>
-            NextJS
+            Tilda <br/>
+            1C-Bitrix <br/>
+            OpenCart
           </ListParagraph>
         </ListContainer>
       </ListItem>

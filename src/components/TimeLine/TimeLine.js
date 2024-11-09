@@ -44,10 +44,12 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>Обо мне</SectionTitle>
       <SectionText>
-      Я высоко мотивированный и целеустремленный человек, недавно закончивший обучение в БГУ. 
+      Я высоко мотивированный и целеустремленный человек, закончивший обучение в БГУ. 
       С большим интересом к разработке фронтенда, активно ищу возможности работы в качестве фронтенд-разработчика. 
-      В моем арсенале навыков есть опыт работы с <strong>HTML, CSS, JavaScript, TypeScript, Node.js, React, NextJS, WordPress, Figma, Bootstrap, TailwindCSS</strong>. 
-      Кроме того, я владею навыками работы с <strong>Photoshop</strong> и <strong>Adobe Premiere</strong>. 
+      В моем арсенале навыков есть опыт работы с <strong>HTML, CSS, JavaScript, TypeScript, Node.js, React, NextJS, WordPress, Tilda, 1C-bitrix, OpenCart, Figma, Bootstrap, TailwindCSS</strong>. 
+      Кроме того, я владею навыками работы с <strong>Photoshop</strong> и <strong>Adobe Premiere</strong>. <br/>
+      В работе активно использую AI инструменты. 
+      В настоящий момент изучаю польский язык.
       В качестве небольшого хобби веду свой ютуб канал.
       Настойчивый, обладаю неизменным стремлением преодолевать трудности, хорошо адаптируюсь к стремительно развивающейся среде IT технологий.
          </SectionText>
